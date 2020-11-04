@@ -1,0 +1,7 @@
+C:\Users\YY\source\repos\0505.Net基础班第三天\04convert类型转换\bin\Debug\04convert类型转换.exe.config
+C:\Users\YY\source\repos\0505.Net基础班第三天\04convert类型转换\bin\Debug\04convert类型转换.exe
+C:\Users\YY\source\repos\0505.Net基础班第三天\04convert类型转换\bin\Debug\04convert类型转换.pdb
+C:\Users\YY\source\repos\0505.Net基础班第三天\04convert类型转换\obj\Debug\04convert类型转换.csprojAssemblyReference.cache
+C:\Users\YY\source\repos\0505.Net基础班第三天\04convert类型转换\obj\Debug\04convert类型转换.csproj.CoreCompileInputs.cache
+C:\Users\YY\source\repos\0505.Net基础班第三天\04convert类型转换\obj\Debug\04convert类型转换.exe
+C:\Users\YY\source\repos\0505.Net基础班第三天\04convert类型转换\obj\Debug\04convert类型转换.pdb

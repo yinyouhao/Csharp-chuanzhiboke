@@ -1,0 +1,11 @@
+C:\Users\YY\source\repos\0505.Net基础班第十天\02 命名空间\bin\Debug\02 命名空间.exe.config
+C:\Users\YY\source\repos\0505.Net基础班第十天\02 命名空间\bin\Debug\02 命名空间.exe
+C:\Users\YY\source\repos\0505.Net基础班第十天\02 命名空间\bin\Debug\02 命名空间.pdb
+C:\Users\YY\source\repos\0505.Net基础班第十天\02 命名空间\bin\Debug\01 复习.exe
+C:\Users\YY\source\repos\0505.Net基础班第十天\02 命名空间\bin\Debug\01 复习.pdb
+C:\Users\YY\source\repos\0505.Net基础班第十天\02 命名空间\bin\Debug\01 复习.exe.config
+C:\Users\YY\source\repos\0505.Net基础班第十天\02 命名空间\obj\Debug\02 命名空间.csprojAssemblyReference.cache
+C:\Users\YY\source\repos\0505.Net基础班第十天\02 命名空间\obj\Debug\02 命名空间.csproj.CoreCompileInputs.cache
+C:\Users\YY\source\repos\0505.Net基础班第十天\02 命名空间\obj\Debug\02 命名空间.csproj.CopyComplete
+C:\Users\YY\source\repos\0505.Net基础班第十天\02 命名空间\obj\Debug\02 命名空间.exe
+C:\Users\YY\source\repos\0505.Net基础班第十天\02 命名空间\obj\Debug\02 命名空间.pdb

@@ -1,0 +1,7 @@
+C:\Users\YY\source\repos\0505.Net基础班第十一天\15File类\bin\Debug\15File类.exe.config
+C:\Users\YY\source\repos\0505.Net基础班第十一天\15File类\bin\Debug\15File类.exe
+C:\Users\YY\source\repos\0505.Net基础班第十一天\15File类\bin\Debug\15File类.pdb
+C:\Users\YY\source\repos\0505.Net基础班第十一天\15File类\obj\Debug\15File类.csprojAssemblyReference.cache
+C:\Users\YY\source\repos\0505.Net基础班第十一天\15File类\obj\Debug\15File类.csproj.CoreCompileInputs.cache
+C:\Users\YY\source\repos\0505.Net基础班第十一天\15File类\obj\Debug\15File类.exe
+C:\Users\YY\source\repos\0505.Net基础班第十一天\15File类\obj\Debug\15File类.pdb

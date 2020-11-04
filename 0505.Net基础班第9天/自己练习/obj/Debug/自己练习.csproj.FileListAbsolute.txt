@@ -1,0 +1,6 @@
+C:\Users\YY\source\repos\0505.Net基础班第9天\自己练习\bin\Debug\自己练习.exe.config
+C:\Users\YY\source\repos\0505.Net基础班第9天\自己练习\bin\Debug\自己练习.exe
+C:\Users\YY\source\repos\0505.Net基础班第9天\自己练习\bin\Debug\自己练习.pdb
+C:\Users\YY\source\repos\0505.Net基础班第9天\自己练习\obj\Debug\自己练习.csproj.CoreCompileInputs.cache
+C:\Users\YY\source\repos\0505.Net基础班第9天\自己练习\obj\Debug\自己练习.exe
+C:\Users\YY\source\repos\0505.Net基础班第9天\自己练习\obj\Debug\自己练习.pdb

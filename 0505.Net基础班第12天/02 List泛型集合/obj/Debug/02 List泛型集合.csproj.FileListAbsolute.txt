@@ -1,0 +1,7 @@
+C:\Users\YY\source\repos\0505.Net基础班第十二天\02 List泛型集合\obj\Debug\02 List泛型集合.csprojAssemblyReference.cache
+C:\Users\YY\source\repos\0505.Net基础班第十二天\02 List泛型集合\obj\Debug\02 List泛型集合.csproj.CoreCompileInputs.cache
+C:\Users\YY\source\repos\0505.Net基础班第十二天\02 List泛型集合\bin\Debug\02 List泛型集合.exe.config
+C:\Users\YY\source\repos\0505.Net基础班第十二天\02 List泛型集合\bin\Debug\02 List泛型集合.exe
+C:\Users\YY\source\repos\0505.Net基础班第十二天\02 List泛型集合\bin\Debug\02 List泛型集合.pdb
+C:\Users\YY\source\repos\0505.Net基础班第十二天\02 List泛型集合\obj\Debug\02 List泛型集合.exe
+C:\Users\YY\source\repos\0505.Net基础班第十二天\02 List泛型集合\obj\Debug\02 List泛型集合.pdb

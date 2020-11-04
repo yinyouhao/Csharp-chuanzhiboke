@@ -1,0 +1,7 @@
+C:\Users\YY\source\repos\基础班第八天\04 飞行棋游戏\bin\Debug\04 飞行棋游戏.exe.config
+C:\Users\YY\source\repos\基础班第八天\04 飞行棋游戏\bin\Debug\04 飞行棋游戏.exe
+C:\Users\YY\source\repos\基础班第八天\04 飞行棋游戏\bin\Debug\04 飞行棋游戏.pdb
+C:\Users\YY\source\repos\基础班第八天\04 飞行棋游戏\obj\Debug\04 飞行棋游戏.csprojAssemblyReference.cache
+C:\Users\YY\source\repos\基础班第八天\04 飞行棋游戏\obj\Debug\04 飞行棋游戏.csproj.CoreCompileInputs.cache
+C:\Users\YY\source\repos\基础班第八天\04 飞行棋游戏\obj\Debug\04 飞行棋游戏.exe
+C:\Users\YY\source\repos\基础班第八天\04 飞行棋游戏\obj\Debug\04 飞行棋游戏.pdb

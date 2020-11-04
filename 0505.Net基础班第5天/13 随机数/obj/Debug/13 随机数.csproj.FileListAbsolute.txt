@@ -1,0 +1,7 @@
+C:\Users\YY\source\repos\0505.Net基础班第五天\13 随机数\bin\Debug\13 随机数.exe.config
+C:\Users\YY\source\repos\0505.Net基础班第五天\13 随机数\bin\Debug\13 随机数.exe
+C:\Users\YY\source\repos\0505.Net基础班第五天\13 随机数\bin\Debug\13 随机数.pdb
+C:\Users\YY\source\repos\0505.Net基础班第五天\13 随机数\obj\Debug\13 随机数.csproj.CoreCompileInputs.cache
+C:\Users\YY\source\repos\0505.Net基础班第五天\13 随机数\obj\Debug\13 随机数.exe
+C:\Users\YY\source\repos\0505.Net基础班第五天\13 随机数\obj\Debug\13 随机数.pdb
+C:\Users\YY\source\repos\0505.Net基础班第五天\13 随机数\obj\Debug\13 随机数.csprojAssemblyReference.cache

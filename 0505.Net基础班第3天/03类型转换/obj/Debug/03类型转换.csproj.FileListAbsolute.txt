@@ -1,0 +1,14 @@
+C:\Users\YY\source\repos\0505.Net基础班第三天\03类型转换\bin\Debug\03类型转换.exe.config
+C:\Users\YY\source\repos\0505.Net基础班第三天\03类型转换\bin\Debug\03类型转换.exe
+C:\Users\YY\source\repos\0505.Net基础班第三天\03类型转换\bin\Debug\03类型转换.pdb
+C:\Users\YY\source\repos\0505.Net基础班第三天\03类型转换\obj\Debug\03类型转换.csprojAssemblyReference.cache
+C:\Users\YY\source\repos\0505.Net基础班第三天\03类型转换\obj\Debug\03类型转换.csproj.CoreCompileInputs.cache
+C:\Users\YY\source\repos\0505.Net基础班第三天\03类型转换\obj\Debug\03类型转换.exe
+C:\Users\YY\source\repos\0505.Net基础班第三天\03类型转换\obj\Debug\03类型转换.pdb
+E:\程序\repos\0505.Net基础班第3天\03类型转换\bin\Debug\03类型转换.exe.config
+E:\程序\repos\0505.Net基础班第3天\03类型转换\bin\Debug\03类型转换.exe
+E:\程序\repos\0505.Net基础班第3天\03类型转换\bin\Debug\03类型转换.pdb
+E:\程序\repos\0505.Net基础班第3天\03类型转换\obj\Debug\03类型转换.csprojAssemblyReference.cache
+E:\程序\repos\0505.Net基础班第3天\03类型转换\obj\Debug\03类型转换.csproj.CoreCompileInputs.cache
+E:\程序\repos\0505.Net基础班第3天\03类型转换\obj\Debug\03类型转换.exe
+E:\程序\repos\0505.Net基础班第3天\03类型转换\obj\Debug\03类型转换.pdb

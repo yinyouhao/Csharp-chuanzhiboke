@@ -1,0 +1,7 @@
+C:\Users\YY\source\repos\0505.Net基础班第十三天\17GUID\bin\Debug\17GUID.exe.config
+C:\Users\YY\source\repos\0505.Net基础班第十三天\17GUID\bin\Debug\17GUID.exe
+C:\Users\YY\source\repos\0505.Net基础班第十三天\17GUID\bin\Debug\17GUID.pdb
+C:\Users\YY\source\repos\0505.Net基础班第十三天\17GUID\obj\Debug\17GUID.csprojAssemblyReference.cache
+C:\Users\YY\source\repos\0505.Net基础班第十三天\17GUID\obj\Debug\17GUID.csproj.CoreCompileInputs.cache
+C:\Users\YY\source\repos\0505.Net基础班第十三天\17GUID\obj\Debug\17GUID.exe
+C:\Users\YY\source\repos\0505.Net基础班第十三天\17GUID\obj\Debug\17GUID.pdb

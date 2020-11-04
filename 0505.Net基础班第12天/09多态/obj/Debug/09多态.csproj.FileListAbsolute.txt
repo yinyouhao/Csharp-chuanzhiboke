@@ -1,0 +1,7 @@
+C:\Users\YY\source\repos\0505.Net基础班第十二天\09多态\obj\Debug\09多态.csprojAssemblyReference.cache
+C:\Users\YY\source\repos\0505.Net基础班第十二天\09多态\obj\Debug\09多态.csproj.CoreCompileInputs.cache
+C:\Users\YY\source\repos\0505.Net基础班第十二天\09多态\bin\Debug\09多态.exe.config
+C:\Users\YY\source\repos\0505.Net基础班第十二天\09多态\bin\Debug\09多态.exe
+C:\Users\YY\source\repos\0505.Net基础班第十二天\09多态\bin\Debug\09多态.pdb
+C:\Users\YY\source\repos\0505.Net基础班第十二天\09多态\obj\Debug\09多态.exe
+C:\Users\YY\source\repos\0505.Net基础班第十二天\09多态\obj\Debug\09多态.pdb

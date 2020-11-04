@@ -1,0 +1,7 @@
+C:\Users\YY\source\repos\0505.Net基础班第七天\14 方法的递归\obj\Debug\14 方法的递归.csprojAssemblyReference.cache
+C:\Users\YY\source\repos\0505.Net基础班第七天\14 方法的递归\obj\Debug\14 方法的递归.csproj.CoreCompileInputs.cache
+C:\Users\YY\source\repos\0505.Net基础班第七天\14 方法的递归\bin\Debug\14 方法的递归.exe.config
+C:\Users\YY\source\repos\0505.Net基础班第七天\14 方法的递归\bin\Debug\14 方法的递归.exe
+C:\Users\YY\source\repos\0505.Net基础班第七天\14 方法的递归\bin\Debug\14 方法的递归.pdb
+C:\Users\YY\source\repos\0505.Net基础班第七天\14 方法的递归\obj\Debug\14 方法的递归.exe
+C:\Users\YY\source\repos\0505.Net基础班第七天\14 方法的递归\obj\Debug\14 方法的递归.pdb

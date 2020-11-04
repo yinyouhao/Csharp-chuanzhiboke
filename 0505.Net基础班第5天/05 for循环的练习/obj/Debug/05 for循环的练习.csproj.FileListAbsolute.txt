@@ -1,0 +1,7 @@
+C:\Users\YY\source\repos\0505.Net基础班第五天\05 for循环的练习\bin\Debug\05 for循环的练习.exe.config
+C:\Users\YY\source\repos\0505.Net基础班第五天\05 for循环的练习\bin\Debug\05 for循环的练习.exe
+C:\Users\YY\source\repos\0505.Net基础班第五天\05 for循环的练习\bin\Debug\05 for循环的练习.pdb
+C:\Users\YY\source\repos\0505.Net基础班第五天\05 for循环的练习\obj\Debug\05 for循环的练习.csproj.CoreCompileInputs.cache
+C:\Users\YY\source\repos\0505.Net基础班第五天\05 for循环的练习\obj\Debug\05 for循环的练习.exe
+C:\Users\YY\source\repos\0505.Net基础班第五天\05 for循环的练习\obj\Debug\05 for循环的练习.pdb
+C:\Users\YY\source\repos\0505.Net基础班第五天\05 for循环的练习\obj\Debug\05 for循环的练习.csprojAssemblyReference.cache

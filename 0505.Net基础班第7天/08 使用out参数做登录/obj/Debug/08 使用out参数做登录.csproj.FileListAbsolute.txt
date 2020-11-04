@@ -1,0 +1,7 @@
+C:\Users\YY\source\repos\0505.Net基础班第七天\08 使用out参数做登录\bin\Debug\08 使用out参数做登录.exe.config
+C:\Users\YY\source\repos\0505.Net基础班第七天\08 使用out参数做登录\bin\Debug\08 使用out参数做登录.exe
+C:\Users\YY\source\repos\0505.Net基础班第七天\08 使用out参数做登录\bin\Debug\08 使用out参数做登录.pdb
+C:\Users\YY\source\repos\0505.Net基础班第七天\08 使用out参数做登录\obj\Debug\08 使用out参数做登录.csprojAssemblyReference.cache
+C:\Users\YY\source\repos\0505.Net基础班第七天\08 使用out参数做登录\obj\Debug\08 使用out参数做登录.csproj.CoreCompileInputs.cache
+C:\Users\YY\source\repos\0505.Net基础班第七天\08 使用out参数做登录\obj\Debug\08 使用out参数做登录.exe
+C:\Users\YY\source\repos\0505.Net基础班第七天\08 使用out参数做登录\obj\Debug\08 使用out参数做登录.pdb

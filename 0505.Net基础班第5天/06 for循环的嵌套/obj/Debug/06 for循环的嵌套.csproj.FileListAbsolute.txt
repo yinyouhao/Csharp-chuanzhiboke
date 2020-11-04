@@ -1,0 +1,7 @@
+C:\Users\YY\source\repos\0505.Net基础班第五天\06 for循环的嵌套\bin\Debug\06 for循环的嵌套.exe.config
+C:\Users\YY\source\repos\0505.Net基础班第五天\06 for循环的嵌套\bin\Debug\06 for循环的嵌套.exe
+C:\Users\YY\source\repos\0505.Net基础班第五天\06 for循环的嵌套\bin\Debug\06 for循环的嵌套.pdb
+C:\Users\YY\source\repos\0505.Net基础班第五天\06 for循环的嵌套\obj\Debug\06 for循环的嵌套.csprojAssemblyReference.cache
+C:\Users\YY\source\repos\0505.Net基础班第五天\06 for循环的嵌套\obj\Debug\06 for循环的嵌套.csproj.CoreCompileInputs.cache
+C:\Users\YY\source\repos\0505.Net基础班第五天\06 for循环的嵌套\obj\Debug\06 for循环的嵌套.exe
+C:\Users\YY\source\repos\0505.Net基础班第五天\06 for循环的嵌套\obj\Debug\06 for循环的嵌套.pdb

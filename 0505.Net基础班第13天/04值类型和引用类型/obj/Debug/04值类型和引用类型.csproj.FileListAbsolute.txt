@@ -1,0 +1,7 @@
+C:\Users\YY\source\repos\0505.Net基础班第十三天\04值类型和引用类型\bin\Debug\04值类型和引用类型.exe.config
+C:\Users\YY\source\repos\0505.Net基础班第十三天\04值类型和引用类型\bin\Debug\04值类型和引用类型.exe
+C:\Users\YY\source\repos\0505.Net基础班第十三天\04值类型和引用类型\bin\Debug\04值类型和引用类型.pdb
+C:\Users\YY\source\repos\0505.Net基础班第十三天\04值类型和引用类型\obj\Debug\04值类型和引用类型.csproj.CoreCompileInputs.cache
+C:\Users\YY\source\repos\0505.Net基础班第十三天\04值类型和引用类型\obj\Debug\04值类型和引用类型.exe
+C:\Users\YY\source\repos\0505.Net基础班第十三天\04值类型和引用类型\obj\Debug\04值类型和引用类型.pdb
+C:\Users\YY\source\repos\0505.Net基础班第十三天\04值类型和引用类型\obj\Debug\04值类型和引用类型.csprojAssemblyReference.cache

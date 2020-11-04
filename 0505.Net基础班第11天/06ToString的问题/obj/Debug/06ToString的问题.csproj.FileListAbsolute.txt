@@ -1,0 +1,6 @@
+C:\Users\YY\source\repos\0505.Net基础班第十一天\06ToString的问题\obj\Debug\06ToString的问题.csproj.CoreCompileInputs.cache
+C:\Users\YY\source\repos\0505.Net基础班第十一天\06ToString的问题\bin\Debug\06ToString的问题.exe.config
+C:\Users\YY\source\repos\0505.Net基础班第十一天\06ToString的问题\bin\Debug\06ToString的问题.exe
+C:\Users\YY\source\repos\0505.Net基础班第十一天\06ToString的问题\bin\Debug\06ToString的问题.pdb
+C:\Users\YY\source\repos\0505.Net基础班第十一天\06ToString的问题\obj\Debug\06ToString的问题.exe
+C:\Users\YY\source\repos\0505.Net基础班第十一天\06ToString的问题\obj\Debug\06ToString的问题.pdb

@@ -1,0 +1,7 @@
+C:\Users\YY\source\repos\0505.Net基础班第七天\06 方法的三个练习\bin\Debug\06 方法的三个练习.exe.config
+C:\Users\YY\source\repos\0505.Net基础班第七天\06 方法的三个练习\bin\Debug\06 方法的三个练习.exe
+C:\Users\YY\source\repos\0505.Net基础班第七天\06 方法的三个练习\bin\Debug\06 方法的三个练习.pdb
+C:\Users\YY\source\repos\0505.Net基础班第七天\06 方法的三个练习\obj\Debug\06 方法的三个练习.csprojAssemblyReference.cache
+C:\Users\YY\source\repos\0505.Net基础班第七天\06 方法的三个练习\obj\Debug\06 方法的三个练习.csproj.CoreCompileInputs.cache
+C:\Users\YY\source\repos\0505.Net基础班第七天\06 方法的三个练习\obj\Debug\06 方法的三个练习.exe
+C:\Users\YY\source\repos\0505.Net基础班第七天\06 方法的三个练习\obj\Debug\06 方法的三个练习.pdb

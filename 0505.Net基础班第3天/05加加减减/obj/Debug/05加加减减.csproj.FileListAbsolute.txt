@@ -1,0 +1,7 @@
+C:\Users\YY\source\repos\0505.Net基础班第三天\05加加减减\bin\Debug\05加加减减.exe.config
+C:\Users\YY\source\repos\0505.Net基础班第三天\05加加减减\bin\Debug\05加加减减.exe
+C:\Users\YY\source\repos\0505.Net基础班第三天\05加加减减\bin\Debug\05加加减减.pdb
+C:\Users\YY\source\repos\0505.Net基础班第三天\05加加减减\obj\Debug\05加加减减.csprojAssemblyReference.cache
+C:\Users\YY\source\repos\0505.Net基础班第三天\05加加减减\obj\Debug\05加加减减.csproj.CoreCompileInputs.cache
+C:\Users\YY\source\repos\0505.Net基础班第三天\05加加减减\obj\Debug\05加加减减.exe
+C:\Users\YY\source\repos\0505.Net基础班第三天\05加加减减\obj\Debug\05加加减减.pdb

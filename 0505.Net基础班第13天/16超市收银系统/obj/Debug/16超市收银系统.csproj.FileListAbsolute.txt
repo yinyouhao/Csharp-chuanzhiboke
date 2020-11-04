@@ -1,0 +1,2 @@
+C:\Users\YY\source\repos\0505.Net基础班第十三天\16超市收银系统\obj\Debug\16超市收银系统.csprojAssemblyReference.cache
+C:\Users\YY\source\repos\0505.Net基础班第十三天\16超市收银系统\obj\Debug\16超市收银系统.csproj.CoreCompileInputs.cache

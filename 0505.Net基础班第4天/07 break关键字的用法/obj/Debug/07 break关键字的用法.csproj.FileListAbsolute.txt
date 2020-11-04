@@ -1,0 +1,7 @@
+C:\Users\YY\source\repos\0505.Net基础班第四天\07 break关键字的用法\bin\Debug\07 break关键字的用法.exe.config
+C:\Users\YY\source\repos\0505.Net基础班第四天\07 break关键字的用法\bin\Debug\07 break关键字的用法.exe
+C:\Users\YY\source\repos\0505.Net基础班第四天\07 break关键字的用法\bin\Debug\07 break关键字的用法.pdb
+C:\Users\YY\source\repos\0505.Net基础班第四天\07 break关键字的用法\obj\Debug\07 break关键字的用法.csprojAssemblyReference.cache
+C:\Users\YY\source\repos\0505.Net基础班第四天\07 break关键字的用法\obj\Debug\07 break关键字的用法.csproj.CoreCompileInputs.cache
+C:\Users\YY\source\repos\0505.Net基础班第四天\07 break关键字的用法\obj\Debug\07 break关键字的用法.exe
+C:\Users\YY\source\repos\0505.Net基础班第四天\07 break关键字的用法\obj\Debug\07 break关键字的用法.pdb

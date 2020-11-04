@@ -1,0 +1,7 @@
+C:\Users\YY\source\repos\0505.Net基础班第十二天\06FileStream\obj\Debug\06FileStream.csprojAssemblyReference.cache
+C:\Users\YY\source\repos\0505.Net基础班第十二天\06FileStream\obj\Debug\06FileStream.csproj.CoreCompileInputs.cache
+C:\Users\YY\source\repos\0505.Net基础班第十二天\06FileStream\bin\Debug\06FileStream.exe.config
+C:\Users\YY\source\repos\0505.Net基础班第十二天\06FileStream\bin\Debug\06FileStream.exe
+C:\Users\YY\source\repos\0505.Net基础班第十二天\06FileStream\bin\Debug\06FileStream.pdb
+C:\Users\YY\source\repos\0505.Net基础班第十二天\06FileStream\obj\Debug\06FileStream.exe
+C:\Users\YY\source\repos\0505.Net基础班第十二天\06FileStream\obj\Debug\06FileStream.pdb

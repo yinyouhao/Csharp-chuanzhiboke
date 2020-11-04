@@ -1,0 +1,7 @@
+C:\Users\YY\source\repos\0505.Net基础班第十二天\03 装箱和拆箱\bin\Debug\03 装箱和拆箱.exe.config
+C:\Users\YY\source\repos\0505.Net基础班第十二天\03 装箱和拆箱\bin\Debug\03 装箱和拆箱.exe
+C:\Users\YY\source\repos\0505.Net基础班第十二天\03 装箱和拆箱\bin\Debug\03 装箱和拆箱.pdb
+C:\Users\YY\source\repos\0505.Net基础班第十二天\03 装箱和拆箱\obj\Debug\03 装箱和拆箱.csprojAssemblyReference.cache
+C:\Users\YY\source\repos\0505.Net基础班第十二天\03 装箱和拆箱\obj\Debug\03 装箱和拆箱.csproj.CoreCompileInputs.cache
+C:\Users\YY\source\repos\0505.Net基础班第十二天\03 装箱和拆箱\obj\Debug\03 装箱和拆箱.exe
+C:\Users\YY\source\repos\0505.Net基础班第十二天\03 装箱和拆箱\obj\Debug\03 装箱和拆箱.pdb

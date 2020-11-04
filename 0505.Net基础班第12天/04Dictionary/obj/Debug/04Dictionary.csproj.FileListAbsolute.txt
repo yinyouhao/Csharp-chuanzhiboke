@@ -1,0 +1,7 @@
+C:\Users\YY\source\repos\0505.Net基础班第十二天\04Dictionary\bin\Debug\04Dictionary.exe.config
+C:\Users\YY\source\repos\0505.Net基础班第十二天\04Dictionary\bin\Debug\04Dictionary.exe
+C:\Users\YY\source\repos\0505.Net基础班第十二天\04Dictionary\bin\Debug\04Dictionary.pdb
+C:\Users\YY\source\repos\0505.Net基础班第十二天\04Dictionary\obj\Debug\04Dictionary.csprojAssemblyReference.cache
+C:\Users\YY\source\repos\0505.Net基础班第十二天\04Dictionary\obj\Debug\04Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\YY\source\repos\0505.Net基础班第十二天\04Dictionary\obj\Debug\04Dictionary.exe
+C:\Users\YY\source\repos\0505.Net基础班第十二天\04Dictionary\obj\Debug\04Dictionary.pdb

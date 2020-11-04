@@ -1,0 +1,7 @@
+C:\Users\YY\source\repos\0505.Net基础班第十天\05 StringBuilder\bin\Debug\05 StringBuilder.exe.config
+C:\Users\YY\source\repos\0505.Net基础班第十天\05 StringBuilder\bin\Debug\05 StringBuilder.exe
+C:\Users\YY\source\repos\0505.Net基础班第十天\05 StringBuilder\bin\Debug\05 StringBuilder.pdb
+C:\Users\YY\source\repos\0505.Net基础班第十天\05 StringBuilder\obj\Debug\05 StringBuilder.csprojAssemblyReference.cache
+C:\Users\YY\source\repos\0505.Net基础班第十天\05 StringBuilder\obj\Debug\05 StringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\YY\source\repos\0505.Net基础班第十天\05 StringBuilder\obj\Debug\05 StringBuilder.exe
+C:\Users\YY\source\repos\0505.Net基础班第十天\05 StringBuilder\obj\Debug\05 StringBuilder.pdb

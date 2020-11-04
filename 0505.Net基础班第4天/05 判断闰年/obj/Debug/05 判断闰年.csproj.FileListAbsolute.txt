@@ -1,0 +1,7 @@
+C:\Users\YY\source\repos\0505.Net基础班第四天\05 判断闰年\obj\Debug\05 判断闰年.csproj.CoreCompileInputs.cache
+C:\Users\YY\source\repos\0505.Net基础班第四天\05 判断闰年\bin\Debug\05 判断闰年.exe.config
+C:\Users\YY\source\repos\0505.Net基础班第四天\05 判断闰年\bin\Debug\05 判断闰年.exe
+C:\Users\YY\source\repos\0505.Net基础班第四天\05 判断闰年\bin\Debug\05 判断闰年.pdb
+C:\Users\YY\source\repos\0505.Net基础班第四天\05 判断闰年\obj\Debug\05 判断闰年.exe
+C:\Users\YY\source\repos\0505.Net基础班第四天\05 判断闰年\obj\Debug\05 判断闰年.pdb
+C:\Users\YY\source\repos\0505.Net基础班第四天\05 判断闰年\obj\Debug\05 判断闰年.csprojAssemblyReference.cache

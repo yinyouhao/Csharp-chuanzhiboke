@@ -1,0 +1,7 @@
+C:\Users\YY\source\repos\0505.Net基础班第四天\0505.Net The forth day of the basic class\bin\Debug\0505.Net The forth day of the basic class.exe.config
+C:\Users\YY\source\repos\0505.Net基础班第四天\0505.Net The forth day of the basic class\bin\Debug\0505.Net The forth day of the basic class.exe
+C:\Users\YY\source\repos\0505.Net基础班第四天\0505.Net The forth day of the basic class\bin\Debug\0505.Net The forth day of the basic class.pdb
+C:\Users\YY\source\repos\0505.Net基础班第四天\0505.Net The forth day of the basic class\obj\Debug\0505.Net The forth day of the basic class.csprojAssemblyReference.cache
+C:\Users\YY\source\repos\0505.Net基础班第四天\0505.Net The forth day of the basic class\obj\Debug\0505.Net The forth day of the basic class.csproj.CoreCompileInputs.cache
+C:\Users\YY\source\repos\0505.Net基础班第四天\0505.Net The forth day of the basic class\obj\Debug\0505.Net The forth day of the basic class.exe
+C:\Users\YY\source\repos\0505.Net基础班第四天\0505.Net The forth day of the basic class\obj\Debug\0505.Net The forth day of the basic class.pdb

@@ -1,0 +1,7 @@
+C:\Users\YY\source\repos\0505.Net基础班第十一天\08ArrayList集合长度的问题\bin\Debug\08ArrayList集合长度的问题.exe.config
+C:\Users\YY\source\repos\0505.Net基础班第十一天\08ArrayList集合长度的问题\bin\Debug\08ArrayList集合长度的问题.exe
+C:\Users\YY\source\repos\0505.Net基础班第十一天\08ArrayList集合长度的问题\bin\Debug\08ArrayList集合长度的问题.pdb
+C:\Users\YY\source\repos\0505.Net基础班第十一天\08ArrayList集合长度的问题\obj\Debug\08ArrayList集合长度的问题.csprojAssemblyReference.cache
+C:\Users\YY\source\repos\0505.Net基础班第十一天\08ArrayList集合长度的问题\obj\Debug\08ArrayList集合长度的问题.csproj.CoreCompileInputs.cache
+C:\Users\YY\source\repos\0505.Net基础班第十一天\08ArrayList集合长度的问题\obj\Debug\08ArrayList集合长度的问题.exe
+C:\Users\YY\source\repos\0505.Net基础班第十一天\08ArrayList集合长度的问题\obj\Debug\08ArrayList集合长度的问题.pdb

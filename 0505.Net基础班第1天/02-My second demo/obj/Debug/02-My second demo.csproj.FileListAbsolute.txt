@@ -1,0 +1,14 @@
+C:\Users\YY\source\repos\0505.Net The frist day of the basic class\02-My second demo\bin\Debug\02-My second demo.exe.config
+C:\Users\YY\source\repos\0505.Net The frist day of the basic class\02-My second demo\bin\Debug\02-My second demo.exe
+C:\Users\YY\source\repos\0505.Net The frist day of the basic class\02-My second demo\bin\Debug\02-My second demo.pdb
+C:\Users\YY\source\repos\0505.Net The frist day of the basic class\02-My second demo\obj\Debug\02-My second demo.csprojAssemblyReference.cache
+C:\Users\YY\source\repos\0505.Net The frist day of the basic class\02-My second demo\obj\Debug\02-My second demo.csproj.CoreCompileInputs.cache
+C:\Users\YY\source\repos\0505.Net The frist day of the basic class\02-My second demo\obj\Debug\02-My second demo.exe
+C:\Users\YY\source\repos\0505.Net The frist day of the basic class\02-My second demo\obj\Debug\02-My second demo.pdb
+E:\程序\repos\0505.Net基础班第1天\02-My second demo\bin\Debug\02-My second demo.exe.config
+E:\程序\repos\0505.Net基础班第1天\02-My second demo\bin\Debug\02-My second demo.exe
+E:\程序\repos\0505.Net基础班第1天\02-My second demo\bin\Debug\02-My second demo.pdb
+E:\程序\repos\0505.Net基础班第1天\02-My second demo\obj\Debug\02-My second demo.csprojAssemblyReference.cache
+E:\程序\repos\0505.Net基础班第1天\02-My second demo\obj\Debug\02-My second demo.csproj.CoreCompileInputs.cache
+E:\程序\repos\0505.Net基础班第1天\02-My second demo\obj\Debug\02-My second demo.exe
+E:\程序\repos\0505.Net基础班第1天\02-My second demo\obj\Debug\02-My second demo.pdb

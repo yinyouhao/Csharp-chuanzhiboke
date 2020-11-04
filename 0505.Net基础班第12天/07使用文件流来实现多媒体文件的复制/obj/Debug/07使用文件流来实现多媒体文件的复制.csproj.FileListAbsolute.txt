@@ -1,0 +1,7 @@
+C:\Users\YY\source\repos\0505.Net基础班第十二天\07使用文件流来实现多媒体文件的复制\bin\Debug\07使用文件流来实现多媒体文件的复制.exe.config
+C:\Users\YY\source\repos\0505.Net基础班第十二天\07使用文件流来实现多媒体文件的复制\bin\Debug\07使用文件流来实现多媒体文件的复制.exe
+C:\Users\YY\source\repos\0505.Net基础班第十二天\07使用文件流来实现多媒体文件的复制\bin\Debug\07使用文件流来实现多媒体文件的复制.pdb
+C:\Users\YY\source\repos\0505.Net基础班第十二天\07使用文件流来实现多媒体文件的复制\obj\Debug\07使用文件流来实现多媒体文件的复制.csprojAssemblyReference.cache
+C:\Users\YY\source\repos\0505.Net基础班第十二天\07使用文件流来实现多媒体文件的复制\obj\Debug\07使用文件流来实现多媒体文件的复制.csproj.CoreCompileInputs.cache
+C:\Users\YY\source\repos\0505.Net基础班第十二天\07使用文件流来实现多媒体文件的复制\obj\Debug\07使用文件流来实现多媒体文件的复制.exe
+C:\Users\YY\source\repos\0505.Net基础班第十二天\07使用文件流来实现多媒体文件的复制\obj\Debug\07使用文件流来实现多媒体文件的复制.pdb

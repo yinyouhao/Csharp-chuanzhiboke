@@ -1,0 +1,7 @@
+C:\Users\YY\source\repos\0505.Net基础班第十一天\12foreach循环\bin\Debug\12foreach循环.exe.config
+C:\Users\YY\source\repos\0505.Net基础班第十一天\12foreach循环\bin\Debug\12foreach循环.exe
+C:\Users\YY\source\repos\0505.Net基础班第十一天\12foreach循环\bin\Debug\12foreach循环.pdb
+C:\Users\YY\source\repos\0505.Net基础班第十一天\12foreach循环\obj\Debug\12foreach循环.csprojAssemblyReference.cache
+C:\Users\YY\source\repos\0505.Net基础班第十一天\12foreach循环\obj\Debug\12foreach循环.csproj.CoreCompileInputs.cache
+C:\Users\YY\source\repos\0505.Net基础班第十一天\12foreach循环\obj\Debug\12foreach循环.exe
+C:\Users\YY\source\repos\0505.Net基础班第十一天\12foreach循环\obj\Debug\12foreach循环.pdb

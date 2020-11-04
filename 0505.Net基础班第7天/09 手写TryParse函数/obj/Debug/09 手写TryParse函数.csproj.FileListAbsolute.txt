@@ -1,0 +1,7 @@
+C:\Users\YY\source\repos\0505.Net基础班第七天\09 手写TryParse函数\bin\Debug\09 手写TryParse函数.exe.config
+C:\Users\YY\source\repos\0505.Net基础班第七天\09 手写TryParse函数\bin\Debug\09 手写TryParse函数.exe
+C:\Users\YY\source\repos\0505.Net基础班第七天\09 手写TryParse函数\bin\Debug\09 手写TryParse函数.pdb
+C:\Users\YY\source\repos\0505.Net基础班第七天\09 手写TryParse函数\obj\Debug\09 手写TryParse函数.csprojAssemblyReference.cache
+C:\Users\YY\source\repos\0505.Net基础班第七天\09 手写TryParse函数\obj\Debug\09 手写TryParse函数.csproj.CoreCompileInputs.cache
+C:\Users\YY\source\repos\0505.Net基础班第七天\09 手写TryParse函数\obj\Debug\09 手写TryParse函数.exe
+C:\Users\YY\source\repos\0505.Net基础班第七天\09 手写TryParse函数\obj\Debug\09 手写TryParse函数.pdb

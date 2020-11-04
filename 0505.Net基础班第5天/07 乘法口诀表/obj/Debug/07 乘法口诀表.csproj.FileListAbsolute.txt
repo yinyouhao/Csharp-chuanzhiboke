@@ -1,0 +1,7 @@
+C:\Users\YY\source\repos\0505.Net基础班第五天\07 乘法口诀表\bin\Debug\07 乘法口诀表.exe.config
+C:\Users\YY\source\repos\0505.Net基础班第五天\07 乘法口诀表\bin\Debug\07 乘法口诀表.exe
+C:\Users\YY\source\repos\0505.Net基础班第五天\07 乘法口诀表\bin\Debug\07 乘法口诀表.pdb
+C:\Users\YY\source\repos\0505.Net基础班第五天\07 乘法口诀表\obj\Debug\07 乘法口诀表.csprojAssemblyReference.cache
+C:\Users\YY\source\repos\0505.Net基础班第五天\07 乘法口诀表\obj\Debug\07 乘法口诀表.csproj.CoreCompileInputs.cache
+C:\Users\YY\source\repos\0505.Net基础班第五天\07 乘法口诀表\obj\Debug\07 乘法口诀表.exe
+C:\Users\YY\source\repos\0505.Net基础班第五天\07 乘法口诀表\obj\Debug\07 乘法口诀表.pdb

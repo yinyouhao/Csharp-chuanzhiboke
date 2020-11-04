@@ -1,0 +1,7 @@
+C:\Users\YY\source\repos\0505.Net基础班第十天\04字符串\bin\Debug\04字符串.exe.config
+C:\Users\YY\source\repos\0505.Net基础班第十天\04字符串\bin\Debug\04字符串.exe
+C:\Users\YY\source\repos\0505.Net基础班第十天\04字符串\bin\Debug\04字符串.pdb
+C:\Users\YY\source\repos\0505.Net基础班第十天\04字符串\obj\Debug\04字符串.csprojAssemblyReference.cache
+C:\Users\YY\source\repos\0505.Net基础班第十天\04字符串\obj\Debug\04字符串.csproj.CoreCompileInputs.cache
+C:\Users\YY\source\repos\0505.Net基础班第十天\04字符串\obj\Debug\04字符串.exe
+C:\Users\YY\source\repos\0505.Net基础班第十天\04字符串\obj\Debug\04字符串.pdb

@@ -1,0 +1,7 @@
+C:\Users\YY\source\repos\0505.Net基础班第十三天\03简单工厂设计模式\bin\Debug\03简单工厂设计模式.exe.config
+C:\Users\YY\source\repos\0505.Net基础班第十三天\03简单工厂设计模式\bin\Debug\03简单工厂设计模式.exe
+C:\Users\YY\source\repos\0505.Net基础班第十三天\03简单工厂设计模式\bin\Debug\03简单工厂设计模式.pdb
+C:\Users\YY\source\repos\0505.Net基础班第十三天\03简单工厂设计模式\obj\Debug\03简单工厂设计模式.csprojAssemblyReference.cache
+C:\Users\YY\source\repos\0505.Net基础班第十三天\03简单工厂设计模式\obj\Debug\03简单工厂设计模式.csproj.CoreCompileInputs.cache
+C:\Users\YY\source\repos\0505.Net基础班第十三天\03简单工厂设计模式\obj\Debug\03简单工厂设计模式.exe
+C:\Users\YY\source\repos\0505.Net基础班第十三天\03简单工厂设计模式\obj\Debug\03简单工厂设计模式.pdb

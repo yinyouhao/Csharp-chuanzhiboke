@@ -1,0 +1,7 @@
+C:\Users\YY\source\repos\0505.Net基础班第9天\03 静态和非静态的区别\bin\Debug\03 静态和非静态的区别.exe.config
+C:\Users\YY\source\repos\0505.Net基础班第9天\03 静态和非静态的区别\bin\Debug\03 静态和非静态的区别.exe
+C:\Users\YY\source\repos\0505.Net基础班第9天\03 静态和非静态的区别\bin\Debug\03 静态和非静态的区别.pdb
+C:\Users\YY\source\repos\0505.Net基础班第9天\03 静态和非静态的区别\obj\Debug\03 静态和非静态的区别.csprojAssemblyReference.cache
+C:\Users\YY\source\repos\0505.Net基础班第9天\03 静态和非静态的区别\obj\Debug\03 静态和非静态的区别.csproj.CoreCompileInputs.cache
+C:\Users\YY\source\repos\0505.Net基础班第9天\03 静态和非静态的区别\obj\Debug\03 静态和非静态的区别.exe
+C:\Users\YY\source\repos\0505.Net基础班第9天\03 静态和非静态的区别\obj\Debug\03 静态和非静态的区别.pdb

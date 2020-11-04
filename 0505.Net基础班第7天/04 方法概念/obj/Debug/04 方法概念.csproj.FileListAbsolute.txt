@@ -1,0 +1,6 @@
+C:\Users\YY\source\repos\0505.Net基础班第七天\04 方法概念\bin\Debug\04 方法概念.exe.config
+C:\Users\YY\source\repos\0505.Net基础班第七天\04 方法概念\bin\Debug\04 方法概念.exe
+C:\Users\YY\source\repos\0505.Net基础班第七天\04 方法概念\bin\Debug\04 方法概念.pdb
+C:\Users\YY\source\repos\0505.Net基础班第七天\04 方法概念\obj\Debug\04 方法概念.csproj.CoreCompileInputs.cache
+C:\Users\YY\source\repos\0505.Net基础班第七天\04 方法概念\obj\Debug\04 方法概念.exe
+C:\Users\YY\source\repos\0505.Net基础班第七天\04 方法概念\obj\Debug\04 方法概念.pdb

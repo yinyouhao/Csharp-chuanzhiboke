@@ -1,0 +1,7 @@
+C:\Users\YY\source\repos\0505.Net基础班第十二天\13 电脑 移动硬盘 U盘 MP3\bin\Debug\13 电脑 移动硬盘 U盘 MP3.exe.config
+C:\Users\YY\source\repos\0505.Net基础班第十二天\13 电脑 移动硬盘 U盘 MP3\bin\Debug\13 电脑 移动硬盘 U盘 MP3.exe
+C:\Users\YY\source\repos\0505.Net基础班第十二天\13 电脑 移动硬盘 U盘 MP3\bin\Debug\13 电脑 移动硬盘 U盘 MP3.pdb
+C:\Users\YY\source\repos\0505.Net基础班第十二天\13 电脑 移动硬盘 U盘 MP3\obj\Debug\13 电脑 移动硬盘 U盘 MP3.csprojAssemblyReference.cache
+C:\Users\YY\source\repos\0505.Net基础班第十二天\13 电脑 移动硬盘 U盘 MP3\obj\Debug\13 电脑 移动硬盘 U盘 MP3.csproj.CoreCompileInputs.cache
+C:\Users\YY\source\repos\0505.Net基础班第十二天\13 电脑 移动硬盘 U盘 MP3\obj\Debug\13 电脑 移动硬盘 U盘 MP3.exe
+C:\Users\YY\source\repos\0505.Net基础班第十二天\13 电脑 移动硬盘 U盘 MP3\obj\Debug\13 电脑 移动硬盘 U盘 MP3.pdb

@@ -1,0 +1,7 @@
+C:\Users\YY\source\repos\0505.Net基础班第十三天\02访问修饰符\bin\Debug\02访问修饰符.exe.config
+C:\Users\YY\source\repos\0505.Net基础班第十三天\02访问修饰符\bin\Debug\02访问修饰符.exe
+C:\Users\YY\source\repos\0505.Net基础班第十三天\02访问修饰符\bin\Debug\02访问修饰符.pdb
+C:\Users\YY\source\repos\0505.Net基础班第十三天\02访问修饰符\obj\Debug\02访问修饰符.csprojAssemblyReference.cache
+C:\Users\YY\source\repos\0505.Net基础班第十三天\02访问修饰符\obj\Debug\02访问修饰符.csproj.CoreCompileInputs.cache
+C:\Users\YY\source\repos\0505.Net基础班第十三天\02访问修饰符\obj\Debug\02访问修饰符.exe
+C:\Users\YY\source\repos\0505.Net基础班第十三天\02访问修饰符\obj\Debug\02访问修饰符.pdb

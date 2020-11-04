@@ -1,0 +1,7 @@
+C:\Users\YY\source\repos\0505.Net基础班第十三天\15总结\bin\Debug\15总结.exe.config
+C:\Users\YY\source\repos\0505.Net基础班第十三天\15总结\bin\Debug\15总结.exe
+C:\Users\YY\source\repos\0505.Net基础班第十三天\15总结\bin\Debug\15总结.pdb
+C:\Users\YY\source\repos\0505.Net基础班第十三天\15总结\obj\Debug\15总结.csprojAssemblyReference.cache
+C:\Users\YY\source\repos\0505.Net基础班第十三天\15总结\obj\Debug\15总结.csproj.CoreCompileInputs.cache
+C:\Users\YY\source\repos\0505.Net基础班第十三天\15总结\obj\Debug\15总结.exe
+C:\Users\YY\source\repos\0505.Net基础班第十三天\15总结\obj\Debug\15总结.pdb

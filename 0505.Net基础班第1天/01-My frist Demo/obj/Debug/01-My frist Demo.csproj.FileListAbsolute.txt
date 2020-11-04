@@ -1,0 +1,14 @@
+C:\Users\YY\source\repos\0505.Net The frist day of the basic class\01-My frist Demo\bin\Debug\01-My frist Demo.exe.config
+C:\Users\YY\source\repos\0505.Net The frist day of the basic class\01-My frist Demo\bin\Debug\01-My frist Demo.exe
+C:\Users\YY\source\repos\0505.Net The frist day of the basic class\01-My frist Demo\bin\Debug\01-My frist Demo.pdb
+C:\Users\YY\source\repos\0505.Net The frist day of the basic class\01-My frist Demo\obj\Debug\01-My frist Demo.csprojAssemblyReference.cache
+C:\Users\YY\source\repos\0505.Net The frist day of the basic class\01-My frist Demo\obj\Debug\01-My frist Demo.csproj.CoreCompileInputs.cache
+C:\Users\YY\source\repos\0505.Net The frist day of the basic class\01-My frist Demo\obj\Debug\01-My frist Demo.exe
+C:\Users\YY\source\repos\0505.Net The frist day of the basic class\01-My frist Demo\obj\Debug\01-My frist Demo.pdb
+E:\程序\repos\0505.Net The frist day of the basic class\01-My frist Demo\bin\Debug\01-My frist Demo.exe.config
+E:\程序\repos\0505.Net The frist day of the basic class\01-My frist Demo\bin\Debug\01-My frist Demo.exe
+E:\程序\repos\0505.Net The frist day of the basic class\01-My frist Demo\bin\Debug\01-My frist Demo.pdb
+E:\程序\repos\0505.Net The frist day of the basic class\01-My frist Demo\obj\Debug\01-My frist Demo.csprojAssemblyReference.cache
+E:\程序\repos\0505.Net The frist day of the basic class\01-My frist Demo\obj\Debug\01-My frist Demo.csproj.CoreCompileInputs.cache
+E:\程序\repos\0505.Net The frist day of the basic class\01-My frist Demo\obj\Debug\01-My frist Demo.exe
+E:\程序\repos\0505.Net The frist day of the basic class\01-My frist Demo\obj\Debug\01-My frist Demo.pdb

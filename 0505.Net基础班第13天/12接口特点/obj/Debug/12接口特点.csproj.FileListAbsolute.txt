@@ -1,0 +1,7 @@
+C:\Users\YY\source\repos\0505.Net基础班第十三天\12接口特点\bin\Debug\12接口特点.exe.config
+C:\Users\YY\source\repos\0505.Net基础班第十三天\12接口特点\bin\Debug\12接口特点.exe
+C:\Users\YY\source\repos\0505.Net基础班第十三天\12接口特点\bin\Debug\12接口特点.pdb
+C:\Users\YY\source\repos\0505.Net基础班第十三天\12接口特点\obj\Debug\12接口特点.csprojAssemblyReference.cache
+C:\Users\YY\source\repos\0505.Net基础班第十三天\12接口特点\obj\Debug\12接口特点.csproj.CoreCompileInputs.cache
+C:\Users\YY\source\repos\0505.Net基础班第十三天\12接口特点\obj\Debug\12接口特点.exe
+C:\Users\YY\source\repos\0505.Net基础班第十三天\12接口特点\obj\Debug\12接口特点.pdb

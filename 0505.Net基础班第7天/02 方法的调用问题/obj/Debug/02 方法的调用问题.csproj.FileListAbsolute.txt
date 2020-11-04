@@ -1,0 +1,7 @@
+C:\Users\YY\source\repos\0505.Net基础班第七天\02 方法的调用问题\bin\Debug\02 方法的调用问题.exe.config
+C:\Users\YY\source\repos\0505.Net基础班第七天\02 方法的调用问题\bin\Debug\02 方法的调用问题.exe
+C:\Users\YY\source\repos\0505.Net基础班第七天\02 方法的调用问题\bin\Debug\02 方法的调用问题.pdb
+C:\Users\YY\source\repos\0505.Net基础班第七天\02 方法的调用问题\obj\Debug\02 方法的调用问题.csprojAssemblyReference.cache
+C:\Users\YY\source\repos\0505.Net基础班第七天\02 方法的调用问题\obj\Debug\02 方法的调用问题.csproj.CoreCompileInputs.cache
+C:\Users\YY\source\repos\0505.Net基础班第七天\02 方法的调用问题\obj\Debug\02 方法的调用问题.exe
+C:\Users\YY\source\repos\0505.Net基础班第七天\02 方法的调用问题\obj\Debug\02 方法的调用问题.pdb
